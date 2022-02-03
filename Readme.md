@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Saha</h1>
-<h3 align="center">char Aditya = { Age: 14 ; Description: "I code" ; My Coding language('s)"Java" ; } ; CreatedAt: "Thursday Feb 3 2022" ; FavouriteThings: ("GitHub", "Intellij", "VS Code") ;</h3>
+<h3 align="center">char Aditya = {
+  Age: 14 ; 
+  Description: "I code" ;
+  My Coding language('s)"Java" ;
+  }
+  {
+  CreatedAt: "Thursday Feb 3 2022" ; 
+  FavouriteThings: ("GitHub", "Intellij", "VS Code") ;
+}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magentacreme&label=Profile%20views&color=0e75b6&style=flat" alt="magentacreme" /> </p>
 
